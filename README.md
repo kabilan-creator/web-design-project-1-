@@ -1,2 +1,2 @@
 # web-design-project-1-
-using HTML,CSS, JAVASCRIPT create a website
+using HTML, CSS, and JAVASCRIPT, create a visually appealing restaurant website developed using HTML, CSS, and JavaScript. It features a user-friendly interface designed to showcase the restaurant's offerings, including menus, specials, and events. The website incorporates interactive elements powered by JavaScript, enhancing the user experience with features like reservation forms, online ordering, or a gallery showcasing the ambiance and dishes. The website aims to attract and engage visitors through elegant design and seamless functionality, enticing them to explore the restaurant's offerings and ultimately dine in or show them restaurant combines.
